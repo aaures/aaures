@@ -1,5 +1,5 @@
 *Hi, I’m* **`@aaures`**
-> Cybersecurity chap 
+> Cybersecurity chap -
 > Threat Hunting, SOC, IR
    
 
